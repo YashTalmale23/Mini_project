@@ -1,0 +1,40 @@
+# Core
+streamlit
+python-dotenv
+
+# AI / LLM
+openai
+
+# Web Parsing
+beautifulsoup4
+lxml
+
+# Automation
+playwright
+
+# Data Handling
+pandas
+
+# Utilities
+requests
+validators
+
+# Testing
+pytest
+
+# for playwright
+playwright install
+
+# #optional
+# # For Selenium (alternative to Playwright)
+# selenium
+
+# # For OCR (if extracting from images)
+# pytesseract
+# pillow
+
+# # For JSON handling improvements
+# orjson
+
+# # For logging enhancements
+# loguru

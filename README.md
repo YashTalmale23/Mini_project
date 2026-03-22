@@ -1,3 +1,15 @@
-# Mini_project
-we are making these for  for our mini project 6th semester
-my self Yash I am group member of group 13th.
+intelliform-ai/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── frontend/
+├── backend/
+├── parser/
+├── ai_mapping/
+├── automation/
+├── vault/
+├── logs/
+├── tests/
+├── docs/# miniproject
