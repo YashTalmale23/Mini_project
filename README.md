@@ -13,3 +13,4 @@ intelliform-ai/
 ├── logs/
 ├── tests/
 ├── docs/# miniproject
+# miniproject
